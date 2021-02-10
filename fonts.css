@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'D-DIN-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('/Fonts/D-DIN Regular'), url('D-DIN.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'D-DIN DIN-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('D-DIN DIN-Bold'), url('D-DIN-Bold.woff') format('woff');
+    }
